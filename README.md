@@ -15,6 +15,16 @@ It uses state-of-the-art **AES-256-GCM** encryption and **PBKDF2 key derivation*
 - Supports drag & drop (via `tkinterdnd2`)
 - Safe error handling with clear messages
 
+  ---
+
+## 📦 Download
+
+👉 [⬇️ GKrypt_Setup.exe (Installer for Windows)](https://github.com/gkavara/GKrypt/releases/download/v1.0/GKrypt_Setup.exe)
+
+No Python required – just run the installer and start encrypting your files securely.
+
+---
+
 ## 📷 Screenshot
 
 Here is what the GKrypt interface looks like:
