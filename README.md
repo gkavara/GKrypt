@@ -1,5 +1,9 @@
 # 🔐 GKrypt
 
+![Release](https://img.shields.io/github/v/release/gkavara/GKrypt?style=flat-square)
+![License](https://img.shields.io/github/license/gkavara/GKrypt?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat-square)
+
 **GKrypt** is a lightweight, secure file encryption tool with a graphical interface (Tkinter) built in Python.  
 It uses state-of-the-art **AES-256-GCM** encryption and **PBKDF2 key derivation** for strong password-based file protection.
 
