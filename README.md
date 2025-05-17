@@ -15,7 +15,7 @@ It uses state-of-the-art **AES-256-GCM** encryption and **PBKDF2 key derivation*
 - Supports drag & drop (via `tkinterdnd2`)
 - Safe error handling with clear messages
 
--## 📷 Screenshot
+## 📷 Screenshot
 
 Here is what the GKrypt interface looks like:
 
